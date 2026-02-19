@@ -21,6 +21,7 @@ body{
 }
 
 .principal {
+    background-image: url("img/netflix.jpg");
     background-image: url("img/contaefootball.png"); 
     background-repeat: no-repeat;
     background-size: contain;
